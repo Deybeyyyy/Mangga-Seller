@@ -1,2 +1,4 @@
 # Mangga-Seller
-BSIT 3D Group Mangga Seller Project Repository
+activity hello activity hello activity hello activity hello
+
+asdadwqweasdawasdqwdq
