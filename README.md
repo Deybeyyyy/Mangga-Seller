@@ -1,2 +1,2 @@
 # Mangga-Seller  
-Mangga Project
+Mangga Seller Project
