@@ -1,4 +1,2 @@
-# Mangga-Seller
-activity hello activity hello activity hello activity hello
-
-asdadwqweasdawasdqwdq
+# Mangga-Seller  
+Mangga Seller Project
